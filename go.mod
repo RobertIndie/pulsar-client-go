@@ -11,7 +11,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang-jwt/jwt v3.2.1+incompatible
 	github.com/google/uuid v1.1.2
-	github.com/klauspost/compress v1.14.4
+	github.com/klauspost/compress v1.17.7
 	github.com/linkedin/goavro/v2 v2.9.8
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
