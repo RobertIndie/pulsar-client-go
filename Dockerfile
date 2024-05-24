@@ -17,7 +17,7 @@
 
 # Explicit version of Pulsar and Golang images should be
 # set via the Makefile or CLI
-ARG PULSAR_IMAGE=czcoder/pulsar:3.3.0-55ed823
+ARG PULSAR_IMAGE=czcoder/pulsar:3.3.0-0771f81
 FROM $PULSAR_IMAGE
 USER root
 ARG GO_VERSION=1.18
